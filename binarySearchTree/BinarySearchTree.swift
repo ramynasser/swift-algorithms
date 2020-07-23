@@ -102,4 +102,3 @@ func recursivePostTraversal(root: Node<Int>?) -> [Int] {
     result.append(root!.key)
     return result
 }
-
